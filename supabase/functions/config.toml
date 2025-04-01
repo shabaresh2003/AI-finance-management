@@ -1,0 +1,23 @@
+
+project_id = "zycfmehporlshbcpruvr"
+
+[functions.budget-notifications]
+verify_jwt = true
+
+[functions.budget-cron]
+verify_jwt = false
+
+[functions.send-budget-alert]
+verify_jwt = false
+
+[functions.send-email]
+verify_jwt = false
+
+[functions.auth-emails]
+verify_jwt = false
+
+[functions.financial-advice]
+verify_jwt = false
+
+[functions.financial-report]
+verify_jwt = false

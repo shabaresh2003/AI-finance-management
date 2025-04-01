@@ -1,0 +1,4 @@
+
+// This is a placeholder for a finance header image file.
+// Since we can't create actual image files through text, we'll use a fallback to a hosted image URL.
+// The FinanceHeader component has a fallback to a finance-related image from Unsplash if this file doesn't exist.
